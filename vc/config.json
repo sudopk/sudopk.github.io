@@ -3,7 +3,7 @@
     "hard": "1.0"
   },
   "url" : {
-    "calendar": "",
-    "locations": ""
+    "calendar": "http://sudopkvc.appspot.com/calendar",
+    "locations": "http://sudopkvc.appspot.com/locations"
   }
 }
