@@ -1,0 +1,729 @@
+{
+    "locations": {
+        "ARGENTINA": {
+            "Bha\ufffda Blanca": "4",
+            "Buenos Aires": "5",
+            "C\ufffdrdoba": "6",
+            "Mar del Plata": "7",
+            "Mendoza": "8",
+            "Neuqu\ufffdn": "9",
+            "Rosario": "11",
+            "R\ufffdo Ceballos": "10",
+            "San Juan": "12",
+            "San Luis": "504"
+        },
+        "ARMENIA ( \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576 )": {
+            "Yerevan": "3"
+        },
+        "AUSTRALIA": {
+            "Adelaide": "13",
+            "Bambra - Victoria": "14",
+            "Brisbane": "15",
+            "Cairns": "16",
+            "Canberra": "17",
+            "Cessnocknsw": "18",
+            "Darwin": "493",
+            "Lismore": "19",
+            "Melbourne": "20",
+            "Murwillumbah": "21",
+            "Perth": "22",
+            "Sydney": "23",
+            "Winchelsea": "24"
+        },
+        "AUSTRIA": {
+            "Graz": "25",
+            "Klagenfurt": "26",
+            "Salzburg": "27",
+            "St Aegyd": "28",
+            "Vienna": "29"
+        },
+        "AZERBAIJAN ( AZ\u0259RBAYCAN )": {
+            "Baku": "30"
+        },
+        "BAHRAIN ( \u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u200e )": {
+            "Manama": "31"
+        },
+        "BANGLADESH ( \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 )": {
+            "Cittagong": "32",
+            "Dhaka": "33",
+            "Jessore": "34"
+        },
+        "BARBADOS": {
+            "Barbados": "35"
+        },
+        "BELARUS ( \u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c )": {
+            "Minsk": "36"
+        },
+        "BELGIQUE": {
+            "Antwerp": "37",
+            "Brussels": "38",
+            "Durbuy": "39",
+            "Liege": "40"
+        },
+        "BOLIVIA": {
+            "Cochabamba": "41",
+            "La Paz": "42",
+            "Santa Cruz": "43"
+        },
+        "BOSNIA AND HERZEGOWINA ( \u0411\u043e\u0441\u043dA \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 )": {
+            "Sarajevo": "44"
+        },
+        "BOTSWANA": {
+            "Gaborone": "478"
+        },
+        "BRASIL": {
+            "Areado": "481",
+            "Belem": "45",
+            "Belo Horizonte": "46",
+            "Brasilia": "47",
+            "Campos": "48",
+            "Caruaru": "49",
+            "Curitiba": "50",
+            "Florianopolis": "51",
+            "Fortaleza": "52",
+            "Goiania": "53",
+            "Guarulhos": "54",
+            "Juiz de Foa": "56",
+            "Jundia\ufffd": "57",
+            "Lambari": "58",
+            "Manaus": "59",
+            "Nova Gokula": "495",
+            "Petropolis": "60",
+            "Porto Alegre": "61",
+            "Recife": "62",
+            "Ribeirao Preto": "63",
+            "Rio de Janeiro": "64",
+            "Salvador": "65",
+            "Santos": "66",
+            "Suzano": "511",
+            "S\ufffdo Carlos": "67",
+            "S\ufffdo Jos\ufffd do Rio Preto": "55",
+            "S\ufffdo Paulo": "68",
+            "Taubate": "69",
+            "Ubatuba": "70",
+            "Vitoria": "71"
+        },
+        "BULGARIYA": {
+            "Plovdiv": "72",
+            "Sof\ufffda": "73"
+        },
+        "CAMEROUN": {
+            "Buea": "74"
+        },
+        "CANADA": {
+            "AL - Calgary": "75",
+            "AL - Edmonton": "76",
+            "BC - Ashcroft": "77",
+            "BC - Vancouver": "78",
+            "NF - Placentia": "81",
+            "ON - Ottawa": "79",
+            "ON - Toronto": "80",
+            "QC - Montreal": "83",
+            "QC - Qu\ufffdbec": "82",
+            "SK - Regina": "84",
+            "VC - Victoria": "85"
+        },
+        "CHINA ( \u4e2d\u570b )": {
+            "Beijing": "88",
+            "Hong Kong": "89",
+            "Shangai": "494",
+            "Taipei": "365"
+        },
+        "CHLE": {
+            "Concepci\ufffdn": "86",
+            "Pucon": "518",
+            "Santiago": "87"
+        },
+        "COLOMBIA": {
+            "Barranquilla": "457",
+            "Bogot\ufffd": "90",
+            "Cali": "91",
+            "Medellin": "524",
+            "Pereira": "92"
+        },
+        "COOK ISLANDS": {
+            "Rarotonga": "499"
+        },
+        "COSTA RICA": {
+            "San Jos\ufffd": "93"
+        },
+        "CROATIA (HRVARSKA)": {
+            "Osijek": "94",
+            "Pula": "95",
+            "Rijeka": "96",
+            "Split": "97",
+            "Zagreb": "98"
+        },
+        "CUBA": {
+            "La Habana": "99"
+        },
+        "CYPRUS (KIBRIS)": {
+            "Cyprus": "100"
+        },
+        "CZECH REPUBLIC ( \u010cESK\ufffd )": {
+            "Prague": "101",
+            "Zlin": "102"
+        },
+        "C\ufffdTE D IVORE": {
+            "Abidjan": "233"
+        },
+        "DANMARK": {
+            "Brorup": "103",
+            "Copenhagen": "104"
+        },
+        "ECUADOR": {
+            "Cuenca": "106",
+            "Guayaquil": "107",
+            "Quito": "108"
+        },
+        "EL SALVADOR": {
+            "San Salvador": "109"
+        },
+        "ESTONIA ( EESTI )": {
+            "Tallinn": "110"
+        },
+        "FIJI": {
+            "Labasa": "111",
+            "Lautoka": "112",
+            "Sigatoga": "526",
+            "Suva": "113"
+        },
+        "FINLAND ( SUOMI )": {
+            "Helsinki": "114",
+            "Tampere": "115",
+            "Turku": "116"
+        },
+        "FRAN\ufffdAISE": {
+            "Avignon": "117",
+            "Bordeaux": "118",
+            "Brest": "119",
+            "Chateauroux": "120",
+            "Dij\ufffdn": "121",
+            "Dole": "122",
+            "Lille": "123",
+            "Longwy": "124",
+            "Lyon": "125",
+            "Nice": "126",
+            "Orange": "127",
+            "Paris": "128",
+            "Poitiers": "129",
+            "Toulous": "130",
+            "Valencay": "131"
+        },
+        "GEORGIA ( \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd )": {
+            "Tbilisi": "132"
+        },
+        "GERMANY ( DEUTSCHLAND )": {
+            "Berlin": "133",
+            "Bremerhaven": "134",
+            "Dresden": "135",
+            "Flensburg": "136",
+            "Frankfurt": "137",
+            "Hamburg": "139",
+            "Hannover": "140",
+            "Heidelberg": "141",
+            "Heilbronn": "142",
+            "Karlsruhe": "143",
+            "Kiel": "144",
+            "Koblenz": "145",
+            "K\ufffdln (Cologne)": "146",
+            "Leipzig": "147",
+            "Marburg": "148",
+            "M\ufffdnchen (Munich)": "149",
+            "Nurnberg (Nuremberg)": "150",
+            "Paderborn": "151",
+            "Passau": "152",
+            "Saarbrucken": "153",
+            "Salzwedel": "154",
+            "Schwerin": "155",
+            "Simhachalam": "466",
+            "Stuttgart": "156",
+            "Trier": "157",
+            "Ulm": "158",
+            "Ummern": "482",
+            "Weimar": "159",
+            "Wiesbaden": "160"
+        },
+        "GHANA": {
+            "Accra": "161",
+            "Nkawkaw": "162",
+            "Takoradi": "163"
+        },
+        "GRECE ( \u0395\u03bb\u03bb\u03ac\u03c2 )": {
+            "Athens": "164"
+        },
+        "GUATEMALA": {
+            "Guatemala": "165"
+        },
+        "GUYANA": {
+            "Berbice": "166",
+            "Essequibo Coast": "167",
+            "Georgetown": "168"
+        },
+        "HONDURAS": {
+            "Tegucigalpa": "169"
+        },
+        "HUNGARY ( MAGYARORSZ\ufffdG )": {
+            "Budapest": "170",
+            "Debrecen": "171",
+            "Kaposvar": "172",
+            "Szolnok": "173"
+        },
+        "ICELAND": {
+            "Reykjavik": "174"
+        },
+        "INDIA ( \u092d\u093e\u0930\u0924 )": {
+            "AP - Giridhari Kunj": "530",
+            "AP - Guntur": "175",
+            "AP - Hyderabad": "176",
+            "AP - Secunderabad": "177",
+            "AP - Tirupati": "178",
+            "AS - Guwahati": "179",
+            "AS - Silchar": "180",
+            "BI - Patna": "181",
+            "CH - Chandigarh": "182",
+            "GU - Ahmedabad": "183",
+            "GU - Anand": "473",
+            "GU - Dwaraka": "184",
+            "GU - Surat": "185",
+            "GU - Vadodara (Baroda)": "186",
+            "GU - Vallabh Vidyanagar": "475",
+            "HY - Faridabad": "497",
+            "JK - Udhampur": "187",
+            "KA - Bangalore": "188",
+            "KA - Belgaum": "189",
+            "KA - Mangalore": "190",
+            "KE - Kozhikode": "517",
+            "KE - Thiruvananthapuram": "191",
+            "KE - Trivandrum": "192",
+            "MA - Imphal": "198",
+            "MA - Moirang": "199",
+            "MP - Ujjain": "467",
+            "MR - Aurangabad": "193",
+            "MR - Mumbai (Bombay)": "194",
+            "MR - Nagpur": "195",
+            "MR - Pandharpur": "196",
+            "MR - Pune": "197",
+            "ND - New Delhi": "200",
+            "OR - Bhubaneswar": "201",
+            "OR - Puri": "202",
+            "OR - Rourkela": "505",
+            "PU - Amristar": "480",
+            "PU - Jalandhar": "472",
+            "PU - Ludiana": "471",
+            "RA - Jaipur": "203",
+            "TN - Chennai (Madras)": "205",
+            "TN - Coimbatore": "204",
+            "TN - Srirangam": "206",
+            "TR - Agartala": "207",
+            "UP - Allahabad": "208",
+            "UP - Hardwar": "209",
+            "UP - Lucknow": "210",
+            "UP - Mathura": "211",
+            "UP - Meerut": "509",
+            "UP - Vrindavan": "212",
+            "WB - Calcutta": "213",
+            "WB - Mayapur": "214",
+            "WB - Murishidabad": "529",
+            "WB - Navadwip": "215",
+            "WB - Siliguri": "216"
+        },
+        "INDONESIA": {
+            "Bali": "217",
+            "Bogor": "218",
+            "Denpasar": "219",
+            "Jakarta": "220",
+            "Jogjakarta": "453"
+        },
+        "IRAN ( \u0627\u06cc\u0631\u0627\u0646 )": {
+            "Teheran": "221"
+        },
+        "IRELAND (IRISH)": {
+            "Dublin": "374",
+            "Wexford": "383"
+        },
+        "IRELAND N ( \ufffdIRE )": {
+            "Belfast": "285",
+            "Derrylin": "286"
+        },
+        "ISRAEL ( \u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc )": {
+            "Telaviv": "222"
+        },
+        "ITALIA": {
+            "Bergamo": "223",
+            "Bologna": "224",
+            "Catania": "225",
+            "Firenze (Florence)": "226",
+            "Mil\ufffdn": "227",
+            "Naples (Napoli)": "228",
+            "Padua": "229",
+            "Pisa": "230",
+            "Rome": "231",
+            "Torino": "528",
+            "Verona": "488",
+            "Vicenza": "232"
+        },
+        "JAPAN ( \u65e5\u672c\u56fd )": {
+            "Okinawa": "234",
+            "Sapporo": "235",
+            "Tokyo": "236"
+        },
+        "KAZAKHSTAN ( \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d )": {
+            "Alma-ata": "237"
+        },
+        "KENYA": {
+            "Kisumu": "238",
+            "Mombasa": "239",
+            "Nairobi": "240"
+        },
+        "KUWAIT ( \u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a )": {
+            "Kuwait": "474"
+        },
+        "LATVIJA": {
+            "Riga": "241"
+        },
+        "LITHUANIA ( LIETUVA )": {
+            "Alytus": "242",
+            "Druskininkai": "243",
+            "Kaunas": "244",
+            "Klaipeda": "245",
+            "Mazheikiai": "246",
+            "Panevezhys": "247",
+            "Shyaulyai": "248",
+            "Utena": "249",
+            "Vilnius": "250"
+        },
+        "MACEDONIA ( \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 )": {
+            "Skopje": "506"
+        },
+        "MALAYSIA": {
+            "Bukit Mertajam": "251",
+            "Ipoh": "252",
+            "Kuala Lumpur": "253",
+            "Perak": "254"
+        },
+        "MAURITIUS": {
+            "Mauritius": "255"
+        },
+        "M\ufffdXICO": {
+            "Canc\ufffdn": "256",
+            "Colima": "523",
+            "Culiac\ufffdn": "257",
+            "Durango": "507",
+            "Guadalajara": "258",
+            "Le\ufffdn": "259",
+            "Loreto": "260",
+            "Mexico City": "261",
+            "Monterrey": "262",
+            "Morelia": "263",
+            "Pachuca": "483",
+            "Saltillo": "264",
+            "San Luis Potos\ufffd": "484",
+            "Tijuana": "265",
+            "Torre\ufffdn": "500",
+            "Tulancingo": "266",
+            "Veracruz": "267",
+            "Villahermosa": "268"
+        },
+        "NEPAL": {
+            "Kathmandu": "269"
+        },
+        "NETHERLANDS (NEDERLANDEN)": {
+            "Amsterdam": "270",
+            "Den Haag": "460",
+            "Utrecht": "271"
+        },
+        "NEW ZEALAND ( AOTEAROA )": {
+            "Auckland": "272",
+            "Christchurch": "273",
+            "Hamilton": "508",
+            "Wellington": "274"
+        },
+        "NICARAGUA": {
+            "Chinandega": "275",
+            "Managua": "276"
+        },
+        "NIGERIA": {
+            "Abeokuta": "277",
+            "Benin City": "278",
+            "Enugu": "279",
+            "Ibadan": "280",
+            "Kaduna": "281",
+            "Lagos": "282",
+            "Porth Arcourt": "283",
+            "Warri": "284"
+        },
+        "NORWAY ( NORGE )": {
+            "Bergen": "287",
+            "Oslo": "288"
+        },
+        "PAKISTAN ( \u067e\u0627\u0643\u0633\u062a\u0627\u0646\u200e )": {
+            "Karachi": "492"
+        },
+        "PANAM\ufffd": {
+            "Panam\ufffd": "289"
+        },
+        "PAPUA NEW GUINEA ( PAPUA NIUGINI )": {
+            "Port Morseby": "290"
+        },
+        "PARAGUAY": {
+            "Asunci\ufffdn": "291"
+        },
+        "PER\ufffd": {
+            "Arequipa": "292",
+            "Chiclayo": "498",
+            "Cuzco": "293",
+            "Huancayo": "513",
+            "Huanuco": "514",
+            "Ica": "476",
+            "Iquitos": "294",
+            "Lima": "295",
+            "Neuqu\ufffdn": "459",
+            "Puno": "296",
+            "Salcabamba": "297",
+            "Satipo": "515",
+            "Tarapoto": "298",
+            "Trujillo": "516"
+        },
+        "PHILIPPINES ( PILIPINAS )": {
+            "Cagayan": "299",
+            "Cebu": "300",
+            "Iloilo": "301",
+            "Manila": "302"
+        },
+        "POLAND ( POLSKA )": {
+            "Gdansk": "303",
+            "Gorzow": "304",
+            "Warsaw": "305",
+            "Wroclaw": "306"
+        },
+        "PORTUGAL": {
+            "Lisboa": "307",
+            "Oporto": "308"
+        },
+        "REPUBLICA DOMINICANA": {
+            "Santo Domingo": "105"
+        },
+        "ROM\ufffdNIA": {
+            "Bucharest": "309",
+            "Timisoara": "310"
+        },
+        "RUSSIA ( \u0420\u043e\u0441\u0441\u0438\u044f )": {
+            "Ekaterinburg": "311",
+            "Krasnoyarsk": "312",
+            "Moscow": "313",
+            "Novosibirsk": "314",
+            "St Petersburg": "315",
+            "Vladikavkaz": "316",
+            "Vladivostok": "317"
+        },
+        "SAUDI ARABIA ( \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 )": {
+            "Damman ( \u0627\u0644\u062f\u0645\u0627\u0645\u200e )": "522",
+            "Jeddah ( \u062c\u062f\u0651\u0629 )": "521",
+            "Riyadh ( \u0644\u0631\u064a\u0627\u0636\u200e )": "520"
+        },
+        "SERBIA ( \u0421\u0440\u0431\u0438\u0458\u0430 )": {
+            "Belgrade": "318",
+            "Sombor": "319"
+        },
+        "SEYCHELLES ( SESEL )": {
+            "Victoria": "465"
+        },
+        "SIERRA LEONE": {
+            "Freetown": "320"
+        },
+        "SINGAPORE": {
+            "Singapore": "321"
+        },
+        "SLOVAK REPUBLIC ( SLOVENSK\ufffd )": {
+            "Bratislava": "322",
+            "Nova Ekacakra": "479",
+            "Trnava": "323"
+        },
+        "SLOVENIA ( SLOVENIJA )": {
+            "Ljubljana": "324"
+        },
+        "SOUTH AFRICA": {
+            "Cape Town": "325",
+            "Durban": "326",
+            "Johannesburg": "327",
+            "Port Elizabeth": "328"
+        },
+        "SOUTH COREA ( \ub300\ud55c\ubbfc\uad6d )": {
+            "Seoul": "519"
+        },
+        "SPAIN (ESPA\ufffdA)": {
+            "Barcelona": "329",
+            "Brihuega": "330",
+            "Galicia": "331",
+            "Guadalajara": "458",
+            "Is. Canarias": "332",
+            "Madrid": "334",
+            "M\ufffdlaga": "335",
+            "Santa Cruz de Tenerife": "336",
+            "Valencia": "337"
+        },
+        "SRI LANKA ( \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1 )": {
+            "Colombo": "338"
+        },
+        "SURINAME": {
+            "Nieuw Nickerie": "491",
+            "Paramaribo": "339"
+        },
+        "SWEDEN ( SVERIGE )": {
+            "Avesta": "340",
+            "Gothenburg": "341",
+            "Haparanda": "343",
+            "Horby": "344",
+            "Jonkoping": "345",
+            "Karlstad": "346",
+            "Ludvika": "347",
+            "Lulea": "348",
+            "Lund": "349",
+            "M\ufffdlmo": "350",
+            "Stockholm": "351",
+            "Sundsvall": "352",
+            "Umea": "353",
+            "Uppsala": "354",
+            "Visby": "355",
+            "\ufffdstersund": "356"
+        },
+        "SWITZERLAND ( SVIZRA )": {
+            "Basel": "357",
+            "Bern": "358",
+            "D\ufffddingen": "359",
+            "Geneva": "360",
+            "Lugano": "361",
+            "Schaffhausen": "362",
+            "Z\ufffdrich": "363"
+        },
+        "SYRIA ( \u0633\u0648\u0631\u064a\u0627 )": {
+            "Al Quneitrah": "364"
+        },
+        "THAILAND ( \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22 )": {
+            "Bangkok": "366"
+        },
+        "TRINIDAD AND TOBAGO": {
+            "Trinidad": "367"
+        },
+        "TURKEY ( T\ufffdRKIYE )": {
+            "Ankara": "454",
+            "Istambul": "455",
+            "Izhir": "456"
+        },
+        "UGANDA": {
+            "Kampala": "368"
+        },
+        "UKRAINE ( \u0423\u043a\u0440\u0430\u0457\u043d\u0430 )": {
+            "Kiev": "385",
+            "Odessa": "386"
+        },
+        "UNITED ARAB EMIRATES ( \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 )": {
+            "Abu Dhabi": "477",
+            "Dubai": "469"
+        },
+        "UNITED KINGDOM": {
+            "Birmingham": "369",
+            "Bristol": "370",
+            "Cardiff": "371",
+            "Cleethorpes": "372",
+            "Coventry": "373",
+            "Glasgow": "375",
+            "Great Bricet": "501",
+            "Leicester": "376",
+            "Liverpool": "377",
+            "London": "378",
+            "Manchester": "379",
+            "New Castle": "380",
+            "Plymouth": "381",
+            "Romford": "382",
+            "Worcester": "384"
+        },
+        "UNITED STATES": {
+            "AL - Juneau": "389",
+            "AZ - Phoenix": "390",
+            "AZ - Tucson": "391",
+            "CA  - Oakland": "503",
+            "CA - Arcata": "392",
+            "CA - Berkeley": "393",
+            "CA - Los Angeles": "394",
+            "CA - Palo Alto": "395",
+            "CA - Sacramento": "527",
+            "CA - San Diego": "396",
+            "CA - San Francisco": "397",
+            "CA - San Jose": "398",
+            "CA - San Luis Obispo": "399",
+            "CO - Boulder": "400",
+            "CO - Denver": "401",
+            "CT - Hartford": "402",
+            "DC - Washington": "403",
+            "FL - Gainesville": "404",
+            "FL - Key West": "405",
+            "FL - Miami": "406",
+            "FL - Tallahassee": "407",
+            "FL - Tampa": "408",
+            "GA - Atlanta": "409",
+            "HI - Hilo": "410",
+            "HI - Honolulu": "411",
+            "ID - Boise": "412",
+            "IL - Chicago": "413",
+            "IN - Indianapolis": "502",
+            "LA - New Orleans": "414",
+            "MA - Boston": "416",
+            "MD - Baltimore": "415",
+            "MI - Detroit": "417",
+            "MI - Lansing": "418",
+            "MN - Mineapolis": "496",
+            "MO - St Louis": "420",
+            "MS - Picayune": "419",
+            "NC - Chapelhill": "424",
+            "NC - Durham": "425",
+            "NC - Hillsborough": "485",
+            "NC - Winston-Salem": "426",
+            "NJ - Morristown": "421",
+            "NM - Alburquerque": "422",
+            "NY - New York": "423",
+            "NY - Syracuse": "470",
+            "OH - Cleveland": "427",
+            "OH - Columbus": "428",
+            "OK - Oklahoma City": "429",
+            "OR - Eugene": "431",
+            "OR - Portland": "430",
+            "PA - Gita-nagari Farm": "432",
+            "PA - Harrisburg": "433",
+            "PA - Philadelphia": "434",
+            "PA - Pittsburgh": "435",
+            "PA - Reading": "525",
+            "PR - Puerto Rico": "436",
+            "PR - San Juan": "437",
+            "SC - Charleston": "438",
+            "TX - Austin": "439",
+            "TX - Dallas": "440",
+            "TX - Harlingen": "490",
+            "TX - Houston": "441",
+            "TX - Waco": "442",
+            "Territory - Virgin Islands": "388",
+            "UT - Provo": "443",
+            "WS - Seattle": "444",
+            "WS - Walla Walla": "445",
+            "WV - Moundsville": "446",
+            "WV - New Vrindaban": "447"
+        },
+        "URUGUAY": {
+            "Montevideo": "387"
+        },
+        "UZBEKISTAN ( O\u02bbZBEKISTON )": {
+            "Tashkent": "448"
+        },
+        "VENEZUELA": {
+            "Caracas": "449"
+        },
+        "ZAMBIA": {
+            "Kitwe-nkana": "450",
+            "Lusaka": "451"
+        },
+        "ZIMBABWE": {
+            "Harare": "452"
+        }
+    }
+}
