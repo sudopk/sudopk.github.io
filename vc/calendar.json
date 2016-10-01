@@ -9,82 +9,83 @@
         ],
         "11": [
             "Dasami",
-            "HH Bhakti Caru Svami (To be held on Sept 17)[Appearance]"
+            "Ramacandra Vijayotsava",
+            "Srila Madhvacarya [Appearance]",
+            "HH Bhaktisvarupa Damodar Svami [Disapperance]"
         ],
         "12": [
-            "Suddha Ekadasi",
-            "Parsva Ekadasi"
+            "Trisprsa Mahadvadasi",
+            "Pasankusa Ekadasi",
+            "Srila Raghunatha Dasa Gosvami [Disapperance]",
+            "Srila Raghunatha Bhatta Gosvami [Disapperance]",
+            "Srila Krsnadasa Kaviraja Gosvami [Disapperance]",
+            "HH Bir Krishna dasa Gosvami [Appearance]"
         ],
         "13": [
-            "Dvadasi",
-            "Break fast 05:50 - 09:59 (Daylight saving not considered)",
-            "Sri Vamana Dvadasi",
-            "(The fast is observed till noon on the Ekadasi)",
-            "(Feasting is done today)",
-            "Srila Jiva Gosvami [Appearance]"
+            "Trayodasi",
+            "Break fast 06:16 - 10:02 (Daylight saving not considered)"
         ],
         "14": [
-            "Trayodasi",
-            "Srila Bhaktivinoda Thakura [Appearance]",
-            "(Fasting till noon)"
+            "Caturdasi"
         ],
         "15": [
-            "Caturdasi",
-            "Ananta Caturdasi Vrata",
-            "Srila Haridasa Thakura [Disapperance]"
+            "Purnima",
+            "Sri Krsna Saradiya Rasayatra",
+            "Srila Murari Gupta [Disapperance]",
+            "Laksmi Puja",
+            "Fourth month of Caturmasya",
+            "(Fast from urad dahl)"
         ],
         "16": [
-            "Purnima",
-            "Sri Visvarupa Mahotsava",
-            "Acceptance of sannyasa by Srila Prabhupada",
-            "Third month of Caturmasya",
-            "(Fast from milk)",
-            "Virgo"
+            "Pratipat",
+            "Libra",
+            "[Full moon]",
+            "Damodara Masa"
         ],
         "17": [
-            "Pratipat",
-            "[Full moon]",
-            "Padmanabha Masa"
+            "Dvitiya"
         ],
         "18": [
             "Tritiya"
         ],
         "19": [
-            "Caturthi"
+            "Pancami",
+            "Srila Narottama Dasa Thakura [Disapperance]"
         ],
         "2": [
-            "Dvitiya",
-            "HH Sridhara Svami [Appearance]"
+            "Dvitiya"
         ],
         "20": [
-            "Pancami"
-        ],
-        "21": [
             "Sasti"
         ],
+        "21": [
+            "Saptami"
+        ],
         "22": [
-            "Saptami",
-            "Srila Prabhupada's arrival in the USA"
+            "Astami",
+            "Appearance of Radha Kunda, snana dana",
+            "Bahulastami"
         ],
         "23": [
-            "Astami"
+            "Navami",
+            "Srila Virabhadra [Appearance]"
         ],
         "24": [
-            "Navami"
-        ],
-        "25": [
             "Dasami"
         ],
-        "26": [
+        "25": [
             "Suddha Ekadasi",
-            "Indira Ekadasi"
+            "Rama Ekadasi"
+        ],
+        "26": [
+            "Dvadasi",
+            "Break fast 07:26 - 10:04 (Daylight saving not considered)"
         ],
         "27": [
-            "Dvadasi",
-            "Break fast 06:01 - 10:00 (Daylight saving not considered)"
+            "Trayodasi"
         ],
         "28": [
-            "Trayodasi"
+            "Caturdasi"
         ],
         "29": [
             "Caturdasi"
@@ -93,29 +94,36 @@
             "Tritiya"
         ],
         "30": [
-            "Amavasya"
+            "Amavasya",
+            "Dipa dana, Dipavali, (Kali Puja)"
+        ],
+        "31": [
+            "Pratipat",
+            "Govardhana Puja, Go Puja, Go Krda",
+            "(Worship of Govardhana Hill)",
+            "Bali Daityaraja Puja",
+            "Srila Rasikananda [Appearance]",
+            "[New moon]"
         ],
         "4": [
             "Caturthi"
         ],
         "5": [
-            "Caturthi"
+            "Pancami"
         ],
         "6": [
-            "Pancami",
-            "Srimati Sita Thakurani (Sri Advaita's consort) [Appearance]"
+            "Sasti"
         ],
         "7": [
             "Sasti",
-            "Lalita sasti"
+            "HH Devamrta Svami [Appearance]"
         ],
         "8": [
-            "Saptami"
+            "Saptami",
+            "Durga Puja"
         ],
         "9": [
-            "Astami",
-            "Radhastami",
-            "(Fasting till noon)"
+            "Astami"
         ]
     }
 }
