@@ -1,9 +1,5 @@
 { "version": {
-    "soft": "1.0",
-    "hard": "1.0"
-  },
-  "url" : {
-    "calendar": "http://sudopkvc.appspot.com/calendar",
-    "locations": "http://sudopkvc.appspot.com/locations"
+    "soft": "1",
+    "hard": "0"
   }
 }
